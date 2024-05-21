@@ -42,8 +42,12 @@ Understand the content of the image.
 3. Provide Caption in User preference language
 
 # Result
+![image](https://github.com/akansha-sharma-28/Image-caption-Generator-/assets/106007341/e843249f-4bde-4e46-b6d5-713cb05c784d)
 
 ![Picture1](https://github.com/akansha-sharma-28/Image-caption-Generator-/assets/106007341/95e7fe84-b89b-427b-ab37-a9e32bf463dd)
+
+![image](https://github.com/akansha-sharma-28/Image-caption-Generator-/assets/106007341/330c9b01-bbf1-4943-bea5-1b4bbfab8415)
+
 
 # Conclusion
 The successful implementation of this project showcases the capability of AI to interpret visual content and translate it into coherent textual descriptions. This has significant implications for various applications, including assisting visually impaired individuals
