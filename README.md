@@ -12,6 +12,8 @@ Improves e-commerce by creating product descriptions from images.
 Assists in organizing and searching photo collections automatically.
 
 # Project Design
+![image](https://github.com/akansha-sharma-28/Image-caption-Generator-/assets/106007341/cf07bd7f-39f5-4f9b-b5ac-52822d293c8c)
+
 
 # Dataset
 FLICKR8K DATASET
